@@ -1,0 +1,8 @@
+.wmw-ext-module {
+  background: #48316b !important;
+  border: 2px solid #c5a0ff !important;
+  color: #fff0ff !important;
+}
+.wmw-ext-module::after {
+  content: " | MODULE OK" !important;
+}
